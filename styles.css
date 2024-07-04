@@ -1,2 +1,12 @@
-
 /* Your CSS Code here. */
+ form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+
+  }
+  label {
+    font-weight: bold;
+    display: block;
+  }
